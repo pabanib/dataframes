@@ -1,4 +1,4 @@
-peri;mes;codipart;detapart;importe;mza;naci;importe_hoy
+﻿peri;mes;codipart;detapart;importe;mza;naci;importe_hoy
 2007;1;55;Resultado Operativo - Amortizacion de la D Consolidada;59,04;0,279037;0,279037;9314,35
 2007;1;54;Amortizacion de la Deuda Consolidada;17,89;0,279037;0,279037;2822,39
 2007;1;53;IX. Resultado Operativo (VIII-IX);76,93;0,279037;0,279037;12136,73
@@ -327,8 +327,8 @@ peri;mes;codipart;detapart;importe;mza;naci;importe_hoy
 2007;6;5;Automotor;13,76;0,288865;0,288865;2096,97
 2007;6;4;Ingresos Brutos;67,16;0,288865;0,288865;10234,9
 2007;6;3;Tributarios;98,4;0,288865;0,288865;14995,74
-2007;6;2;De Origen Provincial;5934,59;0,288865;0,288865;904406,37
-2007;6;1;Recursos Corrientes;6179,27;0,288865;0,288865;941694,56
+2007;6;2;De Origen Provincial;180,81;0,288865;0,288865;27554,68
+2007;6;1;Recursos Corrientes;555,12;0,288865;0,288865;84597,94
 2007;7;55;Resultado Operativo - Amortizacion de la D Consolidada;-7585,93;0,290123;0,290123;-1151050,79
 2007;7;54;Amortizacion de la Deuda Consolidada;20,14;0,290123;0,290123;3055,94
 2007;7;53;IX. Resultado Operativo (VIII-IX);-7565,79;0,290123;0,290123;-1147994,85
@@ -382,8 +382,8 @@ peri;mes;codipart;detapart;importe;mza;naci;importe_hoy
 2007;7;5;Automotor;6,2;0,290123;0,290123;940,76
 2007;7;4;Ingresos Brutos;65,87;0,290123;0,290123;9994,78
 2007;7;3;Tributarios;93,31;0,290123;0,290123;14158,39
-2007;7;2;De Origen Provincial;-7426,63;0,290123;0,290123;-1126879,41
-2007;7;1;Recursos Corrientes;-7224,35;0,290123;0,290123;-1096186,46
+2007;7;2;De Origen Provincial;125,12;0,290123;0,290123;18985,08
+2007;7;1;Recursos Corrientes;390,82;0,290123;0,290123;59301,06
 2007;8;55;Resultado Operativo - Amortizacion de la D Consolidada;1886,81;0,291541;0,291541;284902,56
 2007;8;54;Amortizacion de la Deuda Consolidada;31,72;0,291541;0,291541;4789,62
 2007;8;53;IX. Resultado Operativo (VIII-IX);1918,53;0,291541;0,291541;289692,18
@@ -437,8 +437,8 @@ peri;mes;codipart;detapart;importe;mza;naci;importe_hoy
 2007;8;5;Automotor;14,89;0,291541;0,291541;2248,34
 2007;8;4;Ingresos Brutos;52,72;0,291541;0,291541;7960,56
 2007;8;3;Tributarios;88,03;0,291541;0,291541;13292,26
-2007;8;2;De Origen Provincial;2073,36;0,291541;0,291541;313071,04
-2007;8;1;Recursos Corrientes;2328,88;0,291541;0,291541;351653,78
+2007;8;2;De Origen Provincial;134,23;0,291541;0,291541;20268,32
+2007;8;1;Recursos Corrientes;455,34;0,291541;0,291541;68754,95
 2007;9;55;Resultado Operativo - Amortizacion de la D Consolidada;-36,64;0,293194;0,293194;-5501,34
 2007;9;54;Amortizacion de la Deuda Consolidada;26,06;0,293194;0,293194;3912,8
 2007;9;53;IX. Resultado Operativo (VIII-IX);-10,58;0,293194;0,293194;-1588,54
@@ -11191,6 +11191,7 @@ peri;mes;codipart;detapart;importe;mza;naci;importe_hoy
 2023;12;2;De Origen Provincial;63101,04;35,997071;35,331922;77167,99
 2023;12;1;Recursos Corrientes;147136,74;35,997071;35,331922;179937,54
 2024;1;53;IX. Resultado Operativo (VIII-IX);70337,64;44,021802;42,615324;70337,64
+2024;1;43;Trabajos Publicos;3493;44,021802;42,615324;3493
 2024;1;41;VI. Erogaciones de Capital;5812,18;44,021802;42,615324;5812,18
 2024;1;26;Transferencias a Municipios y Otros;40394,38;44,021802;42,615324;40394,38
 2024;1;25;Intereses y Gastos de la Deuda;1609,24;44,021802;42,615324;1609,24
